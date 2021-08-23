@@ -48,7 +48,7 @@ In the competition you get
 - full_dynamic_graph_sparse: a dynamic graph (list of edges and their creation date) until a time t1.
 - unconnected_vertex_pairs: a list of 1,000,000 vertex pairs that are unconnected by time t1.
 
-**Your task in the competition** is to predict which edges of unconnected_vertex_pairs will form until a time t2. Specifically, you sort the list of potential edges in unconnected_vertex_pairs from most likely to most unlikely. The result will be computed via the AUC of the ROC curve. See more details in the [tutorial](/Science4Cast/Tutorial/tutorial.ipynb).
+**Your task in the competition** is to predict which edges of unconnected_vertex_pairs will form until a time t2. Specifically, you sort the list of potential edges in unconnected_vertex_pairs from most likely to most unlikely. The result will be computed via the AUC of the ROC curve. See more details in the [tutorial](Tutorial/tutorial.ipynb).
 
 
 ### The Evaluation Metric
@@ -63,7 +63,7 @@ We provide a baseline that is trained on the mean-square-error of the prediction
 
 ## 3. <a name="files">Files</a>
 
-**Source files: [/Science4Cast/Competition/](/Competition)**
+**Source files: [/Competition/](/Competition)**
 - Evaluate_Model.py: Evaluating the models
 - SimpleModelFull.py: Baseline model
 
@@ -73,7 +73,7 @@ Science4Cast_data.zip contains the following three files:
 - TrainSet2014_3_solution.pkl: which edges are connected in 2017
 - CompetitionSet2017_3.pkl: Semantic network until 2017, used for evaluation
 
-**Detailed tutorial: [/Science4Cast/Tutorial/tutorial.ipynb](/Science4Cast/Tutorial/tutorial.ipynb)**
+**Detailed tutorial: [/Tutorial/tutorial.ipynb](Tutorial/tutorial.ipynb)**
 - How to read and visualize data
 - How to run a baseline model
 - How to create predictions for validation and competition data

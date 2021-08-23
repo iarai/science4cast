@@ -63,11 +63,12 @@ We provide a baseline that is trained on the mean-square-error of the prediction
 
 ## 3. <a name="files">Files</a>
 
-**Source files: [/Science4Cast/Competition/](https://gitlab.lan.iarai.ac.at/mario.krenn/science4cast/-/tree/master/Competition)**
+**Source files: [/Science4Cast/Competition/](/Competition)**
 - Evaluate_Model.py: Evaluating the models
 - SimpleModelFull.py: Baseline model
 
 **data files at [IARAI website](https://cloud.iarai.ac.at/index.php/s/iTx3bXgMdwsngPn):**
+Science4Cast_data.zip contains the following three files:
 - TrainSet2014_3.pkl: Semantic network until 2014, for predicting 2017
 - TrainSet2014_3_solution.pkl: which edges are connected in 2017
 - CompetitionSet2017_3.pkl: Semantic network until 2017, used for evaluation

@@ -95,6 +95,8 @@ Participants can upload their predictions on the test dataset (*CompetitionSet20
 
 Besides the submissions to the leaderboard (find it at the[ IARAI website](https://www.iarai.ac.at/science4cast/)), submission of working code, learned parameters, and a short scientific paper (4-6 pages) with a sufficiently detailed description of the approach used is required to be awarded a prize. The scientific quality of the submitted paper will be verified by the competition committee. 
 
+After the competition, we plan to write a perspective/summary paper and invite all participants to contribute.
+
 ## 6. <a name="timeline">Competition Timeline</a>
 All times and dates are Anywhere on Earth (UTC -12).
 
@@ -105,4 +107,4 @@ All times and dates are Anywhere on Earth (UTC -12).
 - IEEE BigData 2021: 15.-18. December 2021
 
 ## 7. <a name="questions">Questions, Suggestions, Issues</a>
-Please raise an GitHub issue if you have questions or problems.
+Please raise an GitHub issue if you have questions or problems, or send an e-Mail to [Mario Krenn](mailto:mario.krenn@univie.ac.at)

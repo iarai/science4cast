@@ -87,7 +87,7 @@ The competition offers the following prizes, for the top three winners:
 - **2nd Prize: 6,000 EUR**
 - **3rd Prize: 2,000 EUR**
 
-In addition, special prizes will be awarded to outstanding or creative solutions, should they exist. They will also potentially include a fellowship position at [Institute of Advanced Research in Artificial Intelligence, Vienna, Austria](https://www.iarai.ac.at/).
+In addition, special prizes will be awarded to outstanding or creative solutions, should they exist. We will also potentially include a fellowship position at [Institute of Advanced Research in Artificial Intelligence, Vienna, Austria](https://www.iarai.ac.at/).
 
 
 ## 5. <a name="submit">Submissions</a>

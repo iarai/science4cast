@@ -107,4 +107,4 @@ All times and dates are Anywhere on Earth (UTC -12).
 - IEEE BigData 2021: 15.-18. December 2021
 
 ## 7. <a name="questions">Questions, Suggestions, Issues</a>
-Please raise an GitHub issue if you have questions or problems, or send an e-Mail to [Mario Krenn](mailto:mario.krenn@univie.ac.at)
+Please raise an GitHub issue if you have questions or problems, or send an e-Mail to [Mario Krenn](mailto:mario.krenn@univie.ac.at).

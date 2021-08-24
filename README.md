@@ -81,7 +81,7 @@ Science4Cast_data.zip contains the following three files:
 
 ## 4. <a name="prizes">Prizes</a>
 
-The competition offers the following prizes, for the top three winners:
+The competition offers the following prizes, for the top three winners (participants/teams):
 
 - **1st Prize: 8,000 EUR**
 - **2nd Prize: 6,000 EUR**

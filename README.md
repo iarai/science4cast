@@ -25,6 +25,7 @@ Our competition directly addresses this challenge: We created an evolving semant
 <p align="center">
 <img src="Images/numOfML_bothEV.png" width="800" alt="growth rate of vertices and edges">
 </p>
+
 Moreover, the compiled unique dataset will be instrumental in the pursuit of a wide range of exciting questions in the area of ML for Science of Science -- a recently established research field in the intersection of computational sociology, network science and big data science (see a recent [review](https://science.sciencemag.org/content/359/6379/eaao0185.abstract) and [book](https://www.dashunwang.com/book/the-science-of-science)), sometimes called [Metaknowledge research](https://science.sciencemag.org/content/359/6379/eaao0185.abstract). Those questions include end-to-end trained concept discovery, predictions of concept emergence, predictions of interdisciplinary interactions, and suggestions of personalized research ideas. Solutions to our current competition and the existence of this extensive dataset will set us on the way to answer these vital questions.
 
 ### Related tasks

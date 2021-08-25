@@ -103,7 +103,7 @@ All times and dates are Anywhere on Earth (UTC -12).
 - Data Release: 24. August 2021
 - **Competition ends (submission deadline): 3. November 2021**
 - Abstract submission deadline: 17. November 2021
-- Announcement of the winners: 2. November 2021
+- Announcement of the winners: 2. December 2021
 - IEEE BigData 2021: 15.-18. December 2021
 
 ## 7. <a name="questions">Questions, Suggestions, Issues</a>

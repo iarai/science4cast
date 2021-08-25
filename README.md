@@ -1,4 +1,4 @@
-<img src="Science4cast_banner.png" width="100%" alt=" Science4cast Competition">
+<img src="Images/Science4cast_banner.png" width="100%" alt=" Science4cast Competition">
 
 *Mario Krenn, Michael Kopp, David Kreil, Rose Yu, Moritz Neun, Christian Eichenberger, Markus Spanring, Henry Martin, Dirk Geschke, Daniel Springer, Pedro Herruzo, Marvin McCutchan, Alina Mihai, Toma Furdui, Gabi Fratica, Miriam Vazquez,  Aleksandra Gruca, Johannes Brandstetter, Sepp Hochreiter*
 

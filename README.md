@@ -94,9 +94,9 @@ In addition, special prizes will be awarded to outstanding or creative solutions
 
 
 ## 5. <a name="submit">Submissions</a>
-Participants can upload their predictions on the test dataset (*CompetitionSet2017_3.pkl*) to the leaderboard of the competitions until the submission deadline at the [IARAI website](https://www.iarai.ac.at/science4cast/).
+Participants can upload their predictions on the test dataset (*CompetitionSet2017_3.pkl*) to the leaderboard of the competitions until the submission deadline at the [IARAI website](https://www.iarai.ac.at/science4cast/). The file format is JSON, see details in the [tutorial](Tutorial/tutorial.ipynb)
 
-Besides the submissions to the leaderboard (find it at the[ IARAI website](https://www.iarai.ac.at/science4cast/)), submission of working code, learned parameters, and a short scientific paper (4-6 pages) to be published in the IEEE BigData workshop with a sufficiently detailed description of the approach used is required to be awarded a prize. The scientific quality of the submitted paper will be verified by the competition committee. 
+Besides the submissions to the leaderboard (find it at the [IARAI website](https://www.iarai.ac.at/science4cast/)), submission of working code, learned parameters, and a short scientific paper (4-6 pages) to be published in the IEEE BigData workshop with a sufficiently detailed description of the approach used is required to be awarded a prize. The scientific quality of the submitted paper will be verified by the competition committee. 
 
 After the competition, we plan to write a perspective/summary paper and invite all participants to contribute.
 

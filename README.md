@@ -5,7 +5,7 @@
 
 1. [Introduction](#intro)
 2. [The Task](#task)
-3. [Files](#files)
+3. [Files and Datasets](#ff)
 4. [Prizes](#prizes)
 5. [Submissions](#submit)
 6. [Competition Timeline](#timeline)
@@ -62,7 +62,7 @@ For evaluating the model, we use the **[ROC curve](https://en.wikipedia.org/wiki
 We provide a baseline that is trained on the mean-square-error of the predictions and evaluated on AUC. The participants will provide a sorted list of all elements in K, which maximizes the AUC. A simple solution could sort the elements by the model's probability of an edge formation. We note explicitly that other ways of training are allowed and appreciated, for instance, by exploiting direct end-to-end training on the AUC metric.
 
 
-## 3. <a name="files">Files</a>
+## 3. <a name="ff">Files and Datasets</a>
 
 **Source files: [/Competition/](/Competition)**
 - Evaluate_Model.py: Evaluating the models
@@ -73,6 +73,8 @@ Science4Cast_data.zip contains the following three files:
 - TrainSet2014_3.pkl: Semantic network until 2014, for predicting 2017
 - TrainSet2014_3_solution.pkl: which edges are connected in 2017
 - CompetitionSet2017_3.pkl: Semantic network until 2017, used for evaluation
+
+*Copy those files _directly_ into the directory of the python files.*
 
 **Detailed tutorial: [/Tutorial/tutorial.ipynb](Tutorial/tutorial.ipynb)**
 - How to read and visualize data

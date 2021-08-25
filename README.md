@@ -79,7 +79,7 @@ Science4Cast_data.zip contains the following three files:
 - TrainSet2014_3_solution.pkl: which edges are connected in 2017
 - CompetitionSet2017_3.pkl: Semantic network until 2017, used for evaluation
 
-*Copy those files _directly_ into the directory of the python files and tutorial.*
+*Copy those date files directly into the directory of the source files and tutorial.*
 
 ## 4. <a name="prizes">Prizes</a>
 

@@ -103,7 +103,7 @@ After the competition, we plan to write a perspective/summary paper and invite a
 ## 6. <a name="timeline">Competition Timeline</a>
 All times and dates are Anywhere on Earth (UTC -12).
 
-- Data Release: 24. August 2021
+- Data Release: 25. August 2021
 - **Competition ends (submission deadline): 3. November 2021**
 - Abstract submission deadline: 17. November 2021
 - Announcement of the winners: 2. December 2021

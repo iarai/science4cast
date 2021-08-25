@@ -68,18 +68,18 @@ We provide a baseline that is trained on the mean-square-error of the prediction
 - Evaluate_Model.py: Evaluating the models
 - SimpleModelFull.py: Baseline model
 
+**Detailed tutorial: [/Tutorial/tutorial.ipynb](Tutorial/tutorial.ipynb)**
+- How to read and visualize data
+- How to run a baseline model
+- How to create predictions for validation and competition data
+
 **data files at [IARAI website](https://cloud.iarai.ac.at/index.php/s/iTx3bXgMdwsngPn):**
 Science4Cast_data.zip contains the following three files:
 - TrainSet2014_3.pkl: Semantic network until 2014, for predicting 2017
 - TrainSet2014_3_solution.pkl: which edges are connected in 2017
 - CompetitionSet2017_3.pkl: Semantic network until 2017, used for evaluation
 
-*Copy those files _directly_ into the directory of the python files.*
-
-**Detailed tutorial: [/Tutorial/tutorial.ipynb](Tutorial/tutorial.ipynb)**
-- How to read and visualize data
-- How to run a baseline model
-- How to create predictions for validation and competition data
+*Copy those files _directly_ into the directory of the python files and tutorial.*
 
 ## 4. <a name="prizes">Prizes</a>
 

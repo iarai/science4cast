@@ -13,7 +13,7 @@
 7. [Questions, Suggestions, Issues](#questions)
 
 ## Update (29.10.2021)
-We extend the deadline by one week - you submit solutions until **10.November 2021**. Furthermore, we will **invite all participants to contribute to the dataset paper** (which will be written shortly after the competition ends, more details later.).
+We extend the deadline by one week - you can submit solutions until **10.November 2021**. Furthermore, we will **invite all participants to contribute to the dataset paper** (which will be written shortly after the competition ends, more details later.).
 
 ## 1. <a name="intro">Introduction</a>
 

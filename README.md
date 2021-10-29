@@ -12,6 +12,8 @@
 6. [Competition Timeline](#timeline)
 7. [Questions, Suggestions, Issues](#questions)
 
+## Update (29.10.2021)
+We extend the deadline by one week - you submit solutions until **10.November 2021**. Furthermore, we will **invite all participants to contribute to the dataset paper** (which will be written shortly after the competition ends, more details later.).
 
 ## 1. <a name="intro">Introduction</a>
 
@@ -104,7 +106,7 @@ After the competition, we plan to write a perspective/summary paper and invite a
 All times and dates are Anywhere on Earth (UTC -12).
 
 - Data Release: 25. August 2021
-- **Competition ends (submission deadline): 3. November 2021**
+- **Competition ends (submission deadline): 10. November 2021**
 - Abstract submission deadline: 17. November 2021
 - Announcement of the winners: 2. December 2021
 - IEEE BigData 2021: 15.-18. December 2021

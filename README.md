@@ -12,7 +12,11 @@
 6. [Competition Timeline](#timeline)
 7. [Questions, Suggestions, Issues](#questions)
 
-## Update (29.10.2021)
+## Updates
+### 10.11.2021 - result submission deadline today AoE!
+We extend the paper submission deadline by one week. Please submit your short scientific paper (3-6pages) by **24.November 2021**. The paper should explain in detail your method and results. We will invite all participants (with non-trivial results) to participate to our dataset paper which is scheduled shortly after the competition workshop. Thus, your paper can be a first draft of your contribution to our dataset paper. Looking forward to your great results!
+
+### 29.10.2021
 We extend the deadline by one week - you can submit solutions until **10.November 2021**. Furthermore, we will **invite all participants to contribute to the dataset paper** (which will be written shortly after the competition ends, more details later.).
 
 ## 1. <a name="intro">Introduction</a>
@@ -98,7 +102,7 @@ In addition, special prizes will be awarded to outstanding or creative solutions
 ## 5. <a name="submit">Submissions</a>
 Participants can upload their predictions on the test dataset (*CompetitionSet2017_3.pkl*) to the leaderboard of the competitions until the submission deadline at the [IARAI website](https://www.iarai.ac.at/science4cast/). The file format is JSON, see details in the [tutorial](Tutorial/tutorial.ipynb)
 
-Besides the submissions to the leaderboard (find it at the [IARAI website](https://www.iarai.ac.at/science4cast/)), submission of working code, learned parameters, and a short scientific paper (4-6 pages) to be published in the IEEE BigData workshop with a sufficiently detailed description of the approach used is required to be awarded a prize. The scientific quality of the submitted paper will be verified by the competition committee. 
+Besides the submissions to the leaderboard (find it at the [IARAI website](https://www.iarai.ac.at/science4cast/)), submission of working code, learned parameters, and a short scientific paper (3-6 pages) to be published in the IEEE BigData workshop with a sufficiently detailed description of the approach used is required to be awarded a prize. The scientific quality of the submitted paper will be verified by the competition committee. 
 
 After the competition, we plan to write a perspective/summary paper and invite all participants to contribute.
 
@@ -107,7 +111,7 @@ All times and dates are Anywhere on Earth (UTC -12).
 
 - Data Release: 25. August 2021
 - **Competition ends (submission deadline): 10. November 2021**
-- Abstract submission deadline: 17. November 2021
+- Short Scientific Paper (3-6 pages) submission deadline: 24. November 2021
 - Announcement of the winners: 2. December 2021
 - IEEE BigData 2021: 15.-18. December 2021
 

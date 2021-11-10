@@ -14,7 +14,7 @@
 
 ## Updates
 ### 10.11.2021 - result submission deadline today AoE!
-We extend the paper submission deadline by one week. Please submit your short scientific paper (3-6pages) by **24.November 2021**. The paper should explain in detail your method and results. We will invite all participants (with non-trivial results) to participate to our dataset paper which is scheduled shortly after the competition workshop. Thus, your paper can be a first draft of your contribution to our dataset paper. Looking forward to your great results!
+We extend the paper submission deadline by one week. Please [submit](https://wi-lab.com/cyberchair/2021/bigdata21/scripts/submit.php?subarea=SC05&undisplay_detail=1&wh=/cyberchair/2021/bigdata21/scripts/ws_submit.php) your short scientific paper (3-6pages) by **24.November 2021**. The paper should explain in detail your method and results. We will invite all participants (with non-trivial results) to participate to our dataset paper which is scheduled shortly after the competition workshop. Thus, your paper can be a first draft of your contribution to our dataset paper. Looking forward to your great results!
 
 ### 29.10.2021
 We extend the deadline by one week - you can submit solutions until **10.November 2021**. Furthermore, we will **invite all participants to contribute to the dataset paper** (which will be written shortly after the competition ends, more details later.).

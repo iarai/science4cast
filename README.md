@@ -13,6 +13,10 @@
 7. [Questions, Suggestions, Issues](#questions)
 
 ## Updates
+### 02.12.2021 - annoucement of winners
+Congratulations to all [winners](#winners)! All winners will join our **IEEE BigData 2021 Science4Cast Special Session**, 17. December, 11.00-15.00 EST/17.00-21.00 CET. Please register or send an [e-Mail](mailto:mario.krenn@mpl.mpg.at) for additional information. All talks will be recorded and uploaded to youtube.
+
+
 ### 10.11.2021 - result submission deadline today AoE!
 We extend the paper submission deadline by one week. Please submit your short scientific paper (3-6pages) by **24.November 2021** (updates on submission follow in the next few days). The paper should explain in detail your method and results. We will invite all participants (with non-trivial results) to participate to our dataset paper which is scheduled shortly after the competition workshop. Thus, your paper can be a first draft of your contribution to our dataset paper. Looking forward to your great results!
 
@@ -121,4 +125,4 @@ All times and dates are Anywhere on Earth (UTC -12).
 - **IEEE BigData 2021 Science4Cast Special Session: 17. December, 11.00-15.00 EST/17.00-21.00 CET**
 
 ## 7. <a name="questions">Questions, Suggestions, Issues</a>
-Please raise an GitHub issue if you have questions or problems, or send an e-Mail to [Mario Krenn](mailto:mario.krenn@univie.ac.at).
+Please raise an GitHub issue if you have questions or problems, or send an e-Mail to [Mario Krenn](mailto:mario.krenn@mpl.mpg.at).

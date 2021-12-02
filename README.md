@@ -102,7 +102,7 @@ Science4Cast_data.zip contains the following three files:
 - *For an interesting Graph Neural Network solution:* Francisco Andrades, Ricardo Nanculef (Federico Santa Maria Technical University Santiago, Chile): 500Euro
 - *For an interesting LSTM-based solution:* Nima Sanjabi: 500Euro
 
-In addition, all winners are invited to present their results at the IEEE Big Data Special Session, 17. December, 11.00-15.00 EST/17.00-21.00 CET. Conference fees are covered by IARAI.
+In addition, all winners are invited to present their results at the IEEE Big Data Special Session, 17. December, 11.00-15.00 EST/17.00-21.00 CET.
 
 ## 5. <a name="submit">Submissions</a>
 Participants can upload their predictions on the test dataset (*CompetitionSet2017_3.pkl*) to the leaderboard of the competitions until the submission deadline at the [IARAI website](https://www.iarai.ac.at/science4cast/). The file format is JSON, see details in the [tutorial](Tutorial/tutorial.ipynb)
@@ -115,10 +115,10 @@ After the competition, we plan to write a perspective/summary paper and invite a
 All times and dates are Anywhere on Earth (UTC -12).
 
 - Data Release: 25. August 2021
-- **Competition ends (submission deadline): 10. November 2021**
+- Competition ends (submission deadline): 10. November 2021
 - Short Scientific Paper (3-6 pages) submission deadline: 24. November 2021
 - Announcement of the winners: 2. December 2021
-- IEEE BigData 2021: 15.-18. December 2021
+- **IEEE BigData 2021 Science4Cast Special Session: 17. December, 11.00-15.00 EST/17.00-21.00 CET**
 
 ## 7. <a name="questions">Questions, Suggestions, Issues</a>
 Please raise an GitHub issue if you have questions or problems, or send an e-Mail to [Mario Krenn](mailto:mario.krenn@univie.ac.at).

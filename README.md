@@ -7,7 +7,7 @@
 1. [Introduction](#intro)
 2. [The Task](#task)
 3. [Files and Datasets](#ff)
-4. [Prizes](#prizes)
+4. [Winners](#winners)
 5. [Submissions](#submit)
 6. [Competition Timeline](#timeline)
 7. [Questions, Suggestions, Issues](#questions)
@@ -88,16 +88,21 @@ Science4Cast_data.zip contains the following three files:
 
 *Copy those date files directly into the directory of the source files and tutorial.*
 
-## 4. <a name="prizes">Prizes</a>
+## 4. <a name="winners">Winners</a>
 
-The competition offers the following prizes, for the top three winners (participants/teams):
 
-- **1st Prize: 8,000 EUR**
-- **2nd Prize: 6,000 EUR**
-- **3rd Prize: 2,000 EUR**
+- **1st prize**: Yichao Lu (Layer 6 AI, Toronto): 8000Euro
+- **2nd prize**: Ngoc Mai Tran and Yangxinyu Xie, (University of Texas at Austin): 6000Euro
+- **3rd prize**: Milad Aghajohari (University of Montreal & MILA), Mohammad Sadegh Akhondzadeh (Saarland University & CISPA Helmholtz), Saleh Ashkboos (ETH Zurich), Kamran Chitsaz (Polytechnique Montreal)
 
-In addition, special prizes will be awarded to outstanding or creative solutions, should they exist. We will also potentially include a fellowship position at [Institute of Advanced Research in Artificial Intelligence, Vienna, Austria](https://www.iarai.ac.at/).
+### Special Prizes:
+- *For a surprising, pure network-theoretical solution:* João P. Moutinho, Bruno Coutinho, Lorenzo Buffoni (Instituto de Telecomunicacoes Lisbon): 2000Euro
+- *For an exciting, dynamical embedding and applications of Transformers:* Harlin Lee, Rishi Sonthalia, Jacob G. Foster (UCLA): 2000Euro
+- *For an interesting low-compute solution:* Francisco Valente, Leiria, Portugal: 500Euro
+- *For an interesting Graph Neural Network solution:* Francisco Andrades, Ricardo Nanculef (Federico Santa Maria Technical University Santiago, Chile): 500Euro
+- *For an interesting LSTM-based solution:* Nima Sanjabi: 500Euro
 
+In addition, all winners are invited to present their results at the IEEE Big Data Special Session, 17. December, 11.00-15.00 EST/17.00-21.00 CET. Conference fees are covered by IARAI.
 
 ## 5. <a name="submit">Submissions</a>
 Participants can upload their predictions on the test dataset (*CompetitionSet2017_3.pkl*) to the leaderboard of the competitions until the submission deadline at the [IARAI website](https://www.iarai.ac.at/science4cast/). The file format is JSON, see details in the [tutorial](Tutorial/tutorial.ipynb)

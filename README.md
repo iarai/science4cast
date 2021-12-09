@@ -93,7 +93,7 @@ Science4Cast_data.zip contains the following three files:
 *Copy those date files directly into the directory of the source files and tutorial.*
 
 ## 4. <a name="winners">Winners</a>
-
+<img src="Images/Science4cast_winner_github_Twitter.jpg" width="100%" alt="Science4Cast Competition Winners">
 
 - **1st prize**: Yichao Lu (Layer 6 AI, Toronto): 8000Euro
 - **2nd prize**: Ngoc Mai Tran and Yangxinyu Xie, (University of Texas at Austin): 6000Euro

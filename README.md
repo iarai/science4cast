@@ -14,7 +14,11 @@
 
 ## Updates
 ### 02.12.2021 - annoucement of winners
-Congratulations to all [winners](#winners)! All winners will join our **IEEE BigData 2021 Science4Cast Special Session**, 17. December, 11.00-15.00 EST/17.00-21.00 CET. Please register or send an [e-Mail](mailto:mario.krenn@mpl.mpg.at) for additional information. All talks will be recorded and uploaded to youtube.
+Congratulations to all [winners](#winners)! All winners will join our **IEEE BigData 2021 Science4Cast Special Session**:
+
+**17. December, 10.00-15.00 EST/16.00-21.00 CET.**
+
+Please register or send an [e-Mail](mailto:mario.krenn@mpl.mpg.at) for additional information. All talks will be recorded and uploaded to youtube.
 
 
 ### 10.11.2021 - result submission deadline today AoE!

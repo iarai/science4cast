@@ -17,10 +17,11 @@
 * 16.00-16.10: Short Intro
 * 16.10-16.40 (20+10): **1st Place:** Team oahciy (#1)
 * 16.40-17.00 (13+ 7): **Special Prize (500EUR):** Team mondegoscroc
-* 17.00+17.25 (15+10): **Special Prize (2000EUR):** Team harlin
+* 17.00-17.45 (35+10): **Invited Speaker - [Rose Yu](https://roseyu.com/):** *Dynamics Learning with Graph Neural Networks*
 
 break
-* 17.35-18.20 (35+10): **Invited Speaker - [Rose Yu](https://roseyu.com/):** *Dynamics Learning with Graph Neural Networks*
+* 17.55+18.20 (15+10): **Special Prize (2000EUR):** Harlin Lee (Team harlin): *Dynamic Embedding-based Methods for Link
+Prediction in Machine Learning Semantic Network*
 * 18.20-18.45 (15+10): **2nd Place:** Ngoc Tran (Team Hash Brown): *Random walk rankings with feature selection and imputation*
 * 18.45-19.05 (13+ 7): **Special Prize (500EUR):** Team fandrades
 * 19.05-19.20 (13+ 7): **Special Prize (500EUR):** Team nimasanjabi

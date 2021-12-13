@@ -23,7 +23,7 @@ break
 * 17.55+18.20 (15+10): **Special Prize (2000EUR):** Harlin Lee (Team harlin): *Dynamic Embedding-based Methods for Link
 Prediction in Machine Learning Semantic Network*
 * 18.20-18.45 (15+10): **2nd Place:** Ngoc Tran (Team Hash Brown): *Random walk rankings with feature selection and imputation*
-* 18.45-19.05 (13+ 7): **Special Prize (500EUR):** Team fandrades
+* 18.45-19.05 (13+ 7): **Special Prize (500EUR):** Francisco Andrades (Team fandrades): *A Method to Predict Semantic Relations on Artificial Intelligence Papers*
 * 19.05-19.20 (13+ 7): **Special Prize (500EUR):** Team nimasanjabi
 
 break

@@ -29,7 +29,7 @@ Prediction in Machine Learning Semantic Network*
 break
 * 19.30-20.15 (35+10): **Invited Speaker: [Jacob Foster](https://soc.ucla.edu/faculty/jacob-foster)**
 * 20.15-20.40 (15+10): **Special Prize (2000EUR):** João Moutinho (Team joaopmoutinho): *Network-based link prediction of scientific concepts*
-* 20.40-21.05 (15+10): **3rd Place:** Team SanatisFinests2
+* 20.40-21.05 (15+10): **3rd Place:** Milad Aghajohari (Team SanatisFinests2): *Degree-based Feature Is All You Need*
 * 21.05-21.15: Conclusion
 
 

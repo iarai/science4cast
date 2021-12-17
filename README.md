@@ -14,6 +14,7 @@
 
 ## Updates
 ### 13.12.2021 - Workshop program
+*17.12.2021 (CET times):*
 * 16.00-16.10: Short Intro
 * 16.10-16.40 (20+10): **1st Place:** Yichao Lu (Team oahciy): *Predicting Research Trends in Artificial Intelligence with Gradient Boosting Decision Trees and Time-aware Graph Neural Networks*
 * 16.40-17.00 (13+ 7): **Special Prize (500EUR):** Francisco Valente (Team mondegoscroc): *Link Prediction in Large-Scale Dynamic Network using Low Computational Power*

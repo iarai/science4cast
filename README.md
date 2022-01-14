@@ -15,22 +15,22 @@
 ## Updates
 ### 13.12.2021 - Workshop program
 *17.12.2021 (CET times):*
-* 16.00-16.10: Short Intro
-* 16.10-16.40 (20+10): **1st Place:** Yichao Lu (Team oahciy): *Predicting Research Trends in Artificial Intelligence with Gradient Boosting Decision Trees and Time-aware Graph Neural Networks*
-* 16.40-17.00 (13+ 7): **Special Prize (500EUR):** Francisco Valente (Team mondegoscroc): *Link Prediction in Large-Scale Dynamic Network using Low Computational Power*
-* 17.00-17.45 (35+10): **Invited Speaker - [Rose Yu](https://roseyu.com/):** *Dynamics Learning with Graph Neural Networks*
+* 16.00-16.10: Mario Krenn: [Short Intro](https://www.youtube.com/watch?v=0pcADmFkakA&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD)
+* 16.10-16.40 (20+10): **1st Place:** Yichao Lu (Team oahciy): [*Predicting Research Trends in Artificial Intelligence with Gradient Boosting Decision Trees and Time-aware Graph Neural Networks*](https://www.youtube.com/watch?v=bAaFcMh7lm8&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD)
+* 16.40-17.00 (13+ 7): **Special Prize (500EUR):** Francisco Valente (Team mondegoscroc): [*Link Prediction in Large-Scale Dynamic Network using Low Computational Power*](https://www.youtube.com/watch?v=SGV8OGZasKU&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD)
+* 17.00-17.45 (35+10): **Invited Speaker - [Rose Yu](https://roseyu.com/):** [*Dynamics Learning with Graph Neural Networks*](https://www.youtube.com/watch?v=K31rtI2JCes&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD)
 
 break
-* 17.55+18.20 (15+10): **Special Prize (2000EUR):** Harlin Lee (Team harlin): *Dynamic Embedding-based Methods for Link
-Prediction in Machine Learning Semantic Network*
-* 18.20-18.45 (15+10): **2nd Place:** Ngoc Tran (Team Hash Brown): *Random walk rankings with feature selection and imputation*
-* 18.45-19.05 (13+ 7): **Special Prize (500EUR):** Francisco Andrades (Team fandrades): *A Method to Predict Semantic Relations on Artificial Intelligence Papers*
-* 19.05-19.20 (13+ 7): **Special Prize (500EUR):** Nima Sanjabi (Team nimasanjabi): *Efficiently Predicting Scientific Trends Using Node Centrality Measures*
+* 17.55+18.20 (15+10): **Special Prize (2000EUR):** Harlin Lee (Team harlin): [*Dynamic Embedding-based Methods for Link
+Prediction in Machine Learning Semantic Network*](https://www.youtube.com/watch?v=TkJliIuO5r0&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD)
+* 18.20-18.45 (15+10): **2nd Place:** Ngoc Tran (Team Hash Brown): [*Random walk rankings with feature selection and imputation*](https://www.youtube.com/watch?v=J0TLeCox74k&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD)
+* 18.45-19.05 (13+ 7): **Special Prize (500EUR):** Francisco Andrades (Team fandrades): [*A Method to Predict Semantic Relations on Artificial Intelligence Papers*](https://www.youtube.com/watch?v=Amx0dyFohzw&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD)
+* 19.05-19.20 (13+ 7): **Special Prize (500EUR):** Nima Sanjabi (Team nimasanjabi): [*Efficiently Predicting Scientific Trends Using Node Centrality Measures*](https://www.youtube.com/watch?v=kOAzojnY83g&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD)
 
 break
-* 19.30-20.15 (35+10): **Invited Speaker: [Jacob Foster](https://soc.ucla.edu/faculty/jacob-foster):** *Science and the social production of collective (un)intelligence*
-* 20.15-20.40 (15+10): **Special Prize (2000EUR):** João Moutinho (Team joaopmoutinho): *Network-based link prediction of scientific concepts*
-* 20.40-21.05 (15+10): **3rd Place:** Milad Aghajohari (Team SanatisFinests2): *Degree-based Feature Is All You Need*
+* 19.30-20.15 (35+10): **Invited Speaker: [Jacob Foster](https://soc.ucla.edu/faculty/jacob-foster):** [*Science and the social production of collective (un)intelligence*](https://www.youtube.com/watch?v=lql8ddXCxAE&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD)
+* 20.15-20.40 (15+10): **Special Prize (2000EUR):** João Moutinho (Team joaopmoutinho): [*Network-based link prediction of scientific concepts*](https://www.youtube.com/watch?v=3b0nnpQG1mA&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD)
+* 20.40-21.05 (15+10): **3rd Place:** Milad Aghajohari (Team SanatisFinests2): [*Degree-based Feature Is All You Need*](https://www.youtube.com/watch?v=ApRgxBlaXSY&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD)
 * 21.05-21.15: Conclusion
 
 

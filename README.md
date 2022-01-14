@@ -23,7 +23,7 @@
 break
 * 17.55+18.20 (15+10): **Special Prize (2000EUR):** Harlin Lee (Team harlin): [*Dynamic Embedding-based Methods for Link
 Prediction in Machine Learning Semantic Network*](https://www.youtube.com/watch?v=TkJliIuO5r0&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD)
-* 18.20-18.45 (15+10): **2nd Place:** Ngoc Tran (Team Hash Brown): [*Random walk rankings with feature selection and imputation*](https://www.youtube.com/watch?v=J0TLeCox74k&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD)
+* 18.20-18.45 (15+10): **2nd Place:** Ngoc Tran (Team Hash Brown): [*Random walk rankings with feature selection and imputation*](https://www.youtube.com/watch?v=J0TLeCox74k&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD) [[arXiv](https://arxiv.org/abs/2111.15635)]
 * 18.45-19.05 (13+ 7): **Special Prize (500EUR):** Francisco Andrades (Team fandrades): [*A Method to Predict Semantic Relations on Artificial Intelligence Papers*](https://www.youtube.com/watch?v=Amx0dyFohzw&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD)
 * 19.05-19.20 (13+ 7): **Special Prize (500EUR):** Nima Sanjabi (Team nimasanjabi): [*Efficiently Predicting Scientific Trends Using Node Centrality Measures*](https://www.youtube.com/watch?v=kOAzojnY83g&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD)
 

@@ -29,7 +29,7 @@ Prediction in Machine Learning Semantic Network*](https://www.youtube.com/watch?
 
 break
 * 19.30-20.15 (35+10): **Invited Speaker: [Jacob Foster](https://soc.ucla.edu/faculty/jacob-foster):** [*Science and the social production of collective (un)intelligence*](https://www.youtube.com/watch?v=lql8ddXCxAE&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD)
-* 20.15-20.40 (15+10): **Special Prize (2000EUR):** João Moutinho (Team joaopmoutinho): [*Network-based link prediction of scientific concepts*](https://www.youtube.com/watch?v=3b0nnpQG1mA&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD)
+* 20.15-20.40 (15+10): **Special Prize (2000EUR):** João Moutinho (Team joaopmoutinho): [*Network-based link prediction of scientific concepts*](https://www.youtube.com/watch?v=3b0nnpQG1mA&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD) [[arXiv](https://arxiv.org/abs/2201.07978)]
 * 20.40-21.05 (15+10): **3rd Place:** Milad Aghajohari (Team SanatisFinests2): [*Degree-based Feature Is All You Need*](https://www.youtube.com/watch?v=ApRgxBlaXSY&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD)
 * 21.05-21.15: Conclusion
 

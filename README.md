@@ -16,7 +16,7 @@
 ### 13.12.2021 - Workshop program
 *17.12.2021 (CET times):*
 * 16.00-16.10: Mario Krenn: [Short Intro](https://www.youtube.com/watch?v=0pcADmFkakA&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD)
-* 16.10-16.40 (20+10): **1st Place:** Yichao Lu (Team oahciy): [*Predicting Research Trends in Artificial Intelligence with Gradient Boosting Decision Trees and Time-aware Graph Neural Networks*](https://www.youtube.com/watch?v=bAaFcMh7lm8&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD)
+* 16.10-16.40 (20+10): **1st Place:** Yichao Lu (Team oahciy): [*Predicting Research Trends in Artificial Intelligence with Gradient Boosting Decision Trees and Time-aware Graph Neural Networks*](https://www.youtube.com/watch?v=bAaFcMh7lm8&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD) [[arXiv](https://arxiv.org/abs/2201.05743)]
 * 16.40-17.00 (13+ 7): **Special Prize (500EUR):** Francisco Valente (Team mondegoscroc): [*Link Prediction in Large-Scale Dynamic Network using Low Computational Power*](https://www.youtube.com/watch?v=SGV8OGZasKU&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD)
 * 17.00-17.45 (35+10): **Invited Speaker - [Rose Yu](https://roseyu.com/):** [*Dynamics Learning with Graph Neural Networks*](https://www.youtube.com/watch?v=K31rtI2JCes&list=PLG1x_3C3k_9ZRAG7U3IrxzqNeBH7Wm0VD)
 
